@@ -1,0 +1,12 @@
+c
+c++
+java
+advanced java
+wed technology
+advanced web technology
+python
+machine learning
+dbms
+sql
+visual basic
+rdbms
